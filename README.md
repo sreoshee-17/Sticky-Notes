@@ -3,6 +3,9 @@
 
 Quote is a sticky note where one can create notes about important things , remainders, tasks, etc. User can also delete those notes. 
 
+## Link
+https://quote-sticky-notes.netlify.app/
+
 
 ## Badges
 
